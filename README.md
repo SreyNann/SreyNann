@@ -99,7 +99,7 @@ Hey There, Welcome to my github page
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2024 - To: 21 June 2024
+From: 26 April 2024 - To: 22 June 2024
 
 Total Time: 297 hrs 9 mins
 
