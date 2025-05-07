@@ -99,16 +99,16 @@ Hey There, Welcome to my github page
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2024 - To: 04 May 2025
+From: 26 April 2024 - To: 05 May 2025
 
-Total Time: 1,718 hrs 33 mins
+Total Time: 1,725 hrs 22 mins
 
-TypeScript        1,587 hrs 12 mins███████████████████████░░   91.85 %
-JavaScript        38 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TypeScript        1,594 hrs 2 mins███████████████████████░░   91.88 %
+JavaScript        38 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 Vue.js            31 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-JSON              17 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JSON              17 hrs 22 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 HTML              16 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Markdown          10 hrs 7 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Markdown          10 hrs 7 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 Other             9 hrs 31 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 Bash              5 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 YAML              4 hrs 15 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
