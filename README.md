@@ -99,12 +99,12 @@ Hey There, Welcome to my github page
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2024 - To: 28 September 2026
+From: 26 April 2024 - To: 29 September 2026
 
-Total Time: 2,207 hrs 59 mins
+Total Time: 2,209 hrs 33 mins
 
-TypeScript        1,985 hrs 46 mins     ██████████████████████▒░░   89.47 %
-JavaScript        92 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+TypeScript        1,987 hrs 20 mins     ██████████████████████▒░░   89.48 %
+JavaScript        92 hrs 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 HTML              36 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 Vue.js            32 hrs 26 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 JSON              19 hrs 53 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
